@@ -1,0 +1,25 @@
+{
+  "title": "My My Tenshi Life",
+  "description": "If you died and had a chance to come back to life, would you? But what if you had to be a guardian angel . . .\n\n<---- This divinely magical girl OEM reads right-to-left. <----\n\nUpdates Fridays.",
+  "artist": "Lumaga",
+  "author": "GoldenPlume",
+  "cover": "https://i.imgur.com/rog7axU.png",
+  "chapters": {
+    "0": {
+      "title": "Series Cover",
+      "volume": "1",
+      "last_updated": "1691084239",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/0yGmyD7"
+      }
+    },
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "last_updated": "1691084261",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/efGmOJj"
+      }
+    }
+  }
+}
