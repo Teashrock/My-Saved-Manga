@@ -37,6 +37,14 @@
         "": "/proxy/api/imgur/chapter/Fvk1uFy"
       }
     },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "1",
+      "last_updated": "1691091382",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/KV8HM7L"
+      }
+    },
     "1.1": {
       "title": "Bonus: Meet Emily & Casper",
       "volume": "1",
@@ -59,6 +67,14 @@
       "last_updated": "1691087740",
       "groups": {
         "": "/proxy/api/imgur/chapter/GKAbnXI"
+      }
+    },
+    "4.1": {
+      "title": "Bonus: My My Shinko Life",
+      "volume": "1",
+      "last_updated": "1691091413",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/RyL2Owo"
       }
     }
   }
