@@ -20,6 +20,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/efGmOJj"
       }
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "last_updated": "1691086634",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/d6zbEy0"
+      }
+    },
+    "1.1": {
+      "title": "Bonus: Meet Emily & Casper",
+      "volume": "1",
+      "last_updated": "1691086544",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/CqjO2Q2"
+      }
+    },
+    "1.2": {
+      "title": "Bonus: Meet Kristen & Violet",
+      "volume": "1",
+      "last_updated": "1691086568",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/pqP7OMb"
+      }
     }
   }
 }
